@@ -1,0 +1,5 @@
+<resources>
+    <color name="button_gray">#999999</color>
+    <color name="button_blue">#3498db</color>
+    <color name="button_orange">#f39c12</color>
+</resources>
